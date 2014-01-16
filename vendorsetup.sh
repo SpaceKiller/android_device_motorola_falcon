@@ -1,2 +1,1 @@
-add_lunch_combo cm_falcon-userdebug
-
+add_lunch_combo slim_falcon-userdebug
